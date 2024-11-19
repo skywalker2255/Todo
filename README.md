@@ -48,3 +48,12 @@ export default tseslint.config({
   },
 })
 ```
+
+To run the file please run it in the VS code and in the terminal of vs code
+
+please type the following commands
+
+-- npm install
+-- npm run dev
+
+The code will execute and the localhost adress will be shown.
